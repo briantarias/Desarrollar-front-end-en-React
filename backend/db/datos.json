@@ -1,0 +1,54 @@
+{
+  "jefes": [
+    {
+      "nombre": "Mario Cauich",
+      "edad": "36",
+      "sexo": "m",
+      "carrera": "Recursos Humanos",
+      "id": "VJxA0DWWAYw"
+    },
+    {
+      "nombre": "Martha Menendez",
+      "edad": "38",
+      "sexo": "f",
+      "carrera": "Operaciones CFE",
+      "id": "mfPCukhRJ8o"
+    },
+    {
+      "nombre": "Shirley Gonzalez",
+      "edad": "48",
+      "sexo": "f",
+      "carrera": "Comercialización",
+      "id": "uKPuyb_1Rhw"
+    }
+  ],
+  "empleados": [
+    {
+      "nombre": "Danais Gutierrez",
+      "puesto": "Atencion al Cliente",
+      "sueldo": "24320",
+      "id": "usY7FFiJYUk"
+    },
+    {
+      "nombre": "Carlos Jauregui",
+      "puesto": "Atencion al Cliente",
+      "sueldo": "21320",
+      "id": "HKOlzDlCuhM"
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "Lapiceros 80 pq",
+      "precio": "500",
+      "categoria": "Oficina",
+      "id": "wAy1ZdVWR1k"
+    },
+    {
+      "nombre": "Cinta CCA 10pz",
+      "precio": "890",
+      "categoria": "Oficina",
+      "id": "J9hdrg4su6E"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
