@@ -28,7 +28,7 @@ Proyecto de Frontend en React para la gestión de una empresa CFE se usa 3 entid
 
 ## Instalación y ejecución usando terminal o usar el githbash se tiene que hacer los pasos correspondientes para que funcione.
 
-1. Abrir una terminal o el githbash y ejecutar en la carpeta del frontend en la carpeta administracion de negocio en el pc puede dar click derecho se abre open githbash y se usa el comando npm install directamente en la terminal de open gitbash "Si se ejecuta el comando npm install en la carpeta main se omite el npm install en el paso 2":
+1. Abrir una terminal o el githbash y ejecutar en la carpeta del frontend en la carpeta Desarrollar-front-end-en-React-main en el pc puede dar click derecho se abre open githbash y se usa el comando npm install directamente en la terminal de open gitbash "Si se ejecuta el comando npm install en la carpeta main se omite el npm install en el paso 2":
 
 ```bash
 cd "Desarrollar-front-end-en-React-main"
