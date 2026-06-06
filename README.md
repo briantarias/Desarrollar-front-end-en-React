@@ -1,4 +1,4 @@
-# Administración de Negocio
+# Desarrollar-front-end-en-React-main
 
 Proyecto de Frontend en React para la gestión de una empresa CFE se usa 3 entidades.
 
@@ -26,27 +26,27 @@ Proyecto de Frontend en React para la gestión de una empresa CFE se usa 3 entid
 - `backend/db/datos.json` - Datos iniciales del servidor JSON su base de datos que registra en tablas.
 - `backend/package.json` - Script para ejecutar `json-server`.
 
-## Instalación y ejecución usando terminal o usar el githbash
+## Instalación y ejecución usando terminal o usar el githbash se tiene que hacer los pasos correspondientes para que funcione.
 
 1. Abrir una terminal o el githbash y ejecutar en la carpeta del frontend:
 
 ```bash //en la carpeta administracion de negocio en el pc puede dar click derecho se abre open githbash y se usa el comando npm install directamente en la terminal de open gitbash 
-cd "administracion de negocio"
+cd "Desarrollar-front-end-en-React-main"
 npm install
 ```
 
-2. Abrir otra open gitbash y ejecutar en la carpeta del backend simulado o puede abrirlo en open gitbash directo en la carpeta para no usar el cd "administacion de negocio"/backend si se abre directamente en la carpeta puede ejecutar el npm install de ahi se ejecuta el npm run back para iniciar el servidor:
+2. Abrir otra open gitbash y ejecutar en la carpeta del backend simulado o puede abrirlo en open gitbash directo en la carpeta para no usar el cd "Desarrollar-front-end-en-React-main"/backend si se abre directamente en la carpeta puede ejecutar el npm install de ahi se ejecuta el npm run back para iniciar el servidor:
 
 ```bash
-cd "administracion de negocio"/backend
+cd "Desarrollar-front-end-en-React-main"/backend
 npm install
 npm run back
 ```
 
-3. Volver a la terminal del frontend o abrirla en la carpeta directo con open githbash el administracion de negocio y ejecutar el npm run dev para iniciar el frontend:
+3. Volver a la terminal del frontend o abrirla en la carpeta directo con open githbash el Desarrollar-front-end-en-React-main y ejecutar el npm run dev para iniciar el frontend:
 
 ```bash
-cd "administracion de negocio"
+cd "Desarrollar-front-end-en-React-main"
 npm run dev
 ```
 
